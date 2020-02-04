@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-232322
-=======
-fgd
->>>>>>> third commit
+third commit
